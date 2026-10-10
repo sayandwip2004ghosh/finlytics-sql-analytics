@@ -48,3 +48,9 @@ streamlit run app.py        # dashboard
 - Weighted-average cost basis, no fees/taxes/dividends; trades execute at the day's close.
 - Volatility uses population std; risk-free rate fixed at 5%.
 - Suitability thresholds (40/70/100% equity by risk profile) are illustrative policy limits.
+<img width="1920" height="908" alt="Screenshot 2026-10-10 211210" src="https://github.com/user-attachments/assets/9efeda29-6f18-4bfe-9d31-c9bde312df70" />
+<img width="1900" height="533" alt="Screenshot 2026-10-10 211256" src="https://github.com/user-attachments/assets/f307e6c8-ad55-4bc2-8043-3ba25db94a04" />
+<img width="1906" height="697" alt="Screenshot 2026-10-10 211344" src="https://github.com/user-attachments/assets/831ef2a1-6704-499e-ad4a-c2c096fd4ad2" />
+
+
+
